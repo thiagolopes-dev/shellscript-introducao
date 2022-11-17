@@ -5,7 +5,7 @@ read login
 echo  "Digite sua senha"
 read senha
 
-if [[ ( $login  == "admin" && $senha == "123" ) ]]; then
+if [[ ( $login  == "07174030920" && $senha == "admin" ) ]]; then
 echo "Logado com sucesso !"
 else
 echo "Usuário ou senha incorretos !"
